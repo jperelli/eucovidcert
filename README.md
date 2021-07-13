@@ -1,6 +1,6 @@
 # eucovidcert
 
-This is a simple **UNOFICCIAL** application to read the QR of the EU covid certificate and show all the information the QR contains.
+This is a simple **UNOFFICIAL** application to read the QR of the EU covid certificate and show all the information the QR contains.
 
 Use it here: https://eucovidcert.vercel.app
 
